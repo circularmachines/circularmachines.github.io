@@ -1,23 +1,10 @@
----
-title: "3kunfrndpqj2p"
-date: 2025-09-10 11:53:40
-categories: [curation, bluesky]
-tags: [member-curation, cooperative]
-bluesky_uri: "at://did:plc:soik4txbn6wxadjgqmcj7yn7/app.bsky.feed.post/3kunfrndpqj2p"
-bluesky_url: "https://bsky.app/profile/matthijsr1.bsky.social/post/3kunfrndpqj2p"
-author_handle: "matthijsr1.bsky.social"
-post_id: "3kunfrndpqj2p"
-layout: post
-permalink: /posts/3kunfrndpqj2p.html
----
-
 *[1]* **MatthijsR🍀** (@matthijsr1.bsky.social):
 Waar zo'n oude europallet al niet goed voor is.🤗
 
 Een plankje hier, stukje plastic daar, wat aarde erin.
 Ja, beetje laat met bloemetjes zaaien, maar verwachtingsvol...💚❤️💛☀️
 
-![Image](/assets/images/3kunfrndpqj2p_12_image_1_f7b9cef0344f4f7c854edc2e0260e366.jpeg)
+![Image](/assets/images/3kunfrndpqj2p_1_image_1_4df0026fc2e84f28accac47ae419da7a.jpeg)
 
 
 *[1.1]* **🌱 Chris vdT** (@christinahw.bsky.social):
@@ -26,7 +13,7 @@ Ja, beetje laat met bloemetjes zaaien, maar verwachtingsvol...💚❤️💛☀�
 *[1.1.1]* **MatthijsR🍀** (@matthijsr1.bsky.social):
 Yeah, er komt iets in zicht...🌱😊
 
-![Image](/assets/images/3kunfrndpqj2p_4_image_1_0d9a36ef8bd44ced91f67362aeae02f2.jpeg)
+![Image](/assets/images/3kunfrndpqj2p_2_image_1_906e77ab71da415b9c53cf6585d12677.jpeg)
 
 
 *[1.1.1.1]* **🌱 Chris vdT** (@christinahw.bsky.social):
