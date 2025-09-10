@@ -1,3 +1,16 @@
 title: "Cooperative Bluesky Curation"
 description: "Curated content from our cooperative members"
+url: "https://circularmachines.github.io"
+baseurl: ""
+
 markdown: kramdown
+highlighter: rouge
+
+# Simple post processing
+collections:
+  posts:
+    output: true
+
+# Plugins
+plugins:
+  - jekyll-sitemap
