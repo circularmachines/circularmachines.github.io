@@ -1,30 +1,3 @@
-# Jekyll Configuration for Bluesky Curation
 title: "Cooperative Bluesky Curation"
-description: "Curated content from our cooperative members on Bluesky"
-url: "https://circularmachines.github.io"
-baseurl: ""
-
-# Build settings
+description: "Curated content from our cooperative members"
 markdown: kramdown
-highlighter: rouge
-theme: minima
-
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-
-# Social
-github_username: circularmachines
-bluesky_handle: coopcuration.bsky.social
-
-# Post settings
-permalink: /:year/:month/:day/:title/
-future: false
-show_excerpts: true
-
-# Exclude from processing
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
