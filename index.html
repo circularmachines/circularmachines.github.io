@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cooperative Bluesky Curation</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 20px; }
+        .post { border-bottom: 1px solid #eee; padding: 20px 0; }
+        .post h3 { margin: 0 0 10px 0; }
+        .post .date { color: #666; font-size: 14px; }
+        .post .content { margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Cooperative Bluesky Curation</h1>
+    <p>This site automatically curates interesting content shared by our cooperative members on Bluesky.</p>
+    
+    <h2>Recent Curations</h2>
+    
+    {% for post in site.posts limit:10 %}
+    <div class="post">
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        <div class="date">{{ post.date | date: "%B %d, %Y" }}</div>
+        <div class="content">{{ post.excerpt }}</div>
+    </div>
+    {% endfor %}
+    
+    <p><strong>Debug:</strong> Total posts: {{ site.posts.size }}</p>
+    
+    <hr>
+    <p><em>Powered by <a href="https://github.com/circularmachines/bsky2llm">bsky2llm</a></em></p>
+</body>
+</html>
